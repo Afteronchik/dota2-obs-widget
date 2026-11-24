@@ -6,7 +6,7 @@
 
 Один файл, без сборки и зависимостей: `index.html`.
 
-> **Живой пример:** https://afteronchik.github.io/dota2-obs-widget/index.html?id=611294396
+> **Живой пример:** https://afteronchik.github.io/dota2-obs-widget/index.html?id=76561199182854521
 > (это же можно вставить прямо в OBS → Источник → Браузер → URL, тогда файлы на компьютере не нужны вовсе)
 
 ---
